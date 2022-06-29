@@ -25,8 +25,7 @@ namespace Blog.Controllers
         private List<User> people = new List<User>
         {
         new User {Login="admin@gmail.com", Password="12345", Role = "admin" },
-        new User { Login="qwerty@gmail.com", Password="55555", Role = "user" },
-        new User { Login="prof@master.com", Password="322322", Role = "uberadmin" }
+        new User { Login="qwerty@gmail.com", Password="55555", Role = "user" }
         };
 
         [HttpGet]
