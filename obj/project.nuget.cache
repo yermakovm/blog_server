@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8nUr8ijV6jzaGg7tDGuaSR/+vBKWjrTXZ8hYy7rSKJodx9+Wp51G2lzz8x0c3gqLCMblplvj1TlBC+cBhdtYMg==",
+  "dgSpecHash": "98kOzo2eN8wTncO4E2DIJU5WpDC7yx/zFFGAE4kovDYlfV/kzCdrppJFXtCSwUr4WBG8tPiigK/wkvsPK4bYfg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Blog\\Server\\Blog.csproj",
+  "projectFilePath": "c:\\Projects\\Blog\\Server\\Blog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\torgu\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\torgu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
