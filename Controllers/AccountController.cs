@@ -81,7 +81,6 @@ namespace Blog.Controllers
                 return claimsIdentity;
             }
 
-            // если пользователя не найдено
             return null;
         }
     }

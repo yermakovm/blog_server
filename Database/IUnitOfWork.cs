@@ -10,6 +10,8 @@ namespace Blog.Database
     {
         void Save();
         PostRepository Posts { get; }
+        CategoryRepository Categories { get; }
+        TagRepository Tags { get; }
         UserRepository Users { get; }
     }
 }

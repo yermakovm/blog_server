@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projects\\Blog\\Server\\Blog.csproj": {}
+    "C:\\Projects\\Blog\\Server\\Blog.csproj": {}
   },
   "projects": {
-    "c:\\Projects\\Blog\\Server\\Blog.csproj": {
+    "C:\\Projects\\Blog\\Server\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projects\\Blog\\Server\\Blog.csproj",
+        "projectUniqueName": "C:\\Projects\\Blog\\Server\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "c:\\Projects\\Blog\\Server\\Blog.csproj",
+        "projectPath": "C:\\Projects\\Blog\\Server\\Blog.csproj",
         "packagesPath": "C:\\Users\\torgu\\.nuget\\packages\\",
-        "outputPath": "c:\\Projects\\Blog\\Server\\obj\\",
+        "outputPath": "C:\\Projects\\Blog\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -11,7 +11,8 @@ namespace Blog.Database
         private BlogContext db = new BlogContext();
         private PostRepository postRepository;
         private UserRepository userRepository;
-
+        private TagRepository tagRepository;
+        private CategoryRepository categoryRepository;
 
         public PostRepository Posts
         {
@@ -23,13 +24,33 @@ namespace Blog.Database
             }
         }
 
-                public UserRepository Users
+        public UserRepository Users
         {
             get
             {
                 if (userRepository == null)
                     userRepository = new UserRepository(db);
                 return userRepository;
+            }
+        }
+
+        public TagRepository Tags
+        {
+            get
+            {
+                if (tagRepository == null)
+                    tagRepository = new TagRepository(db);
+                return tagRepository;
+            }
+        }
+
+        public CategoryRepository Categories
+        {
+            get
+            {
+                if (categoryRepository == null)
+                    categoryRepository = new CategoryRepository(db);
+                return categoryRepository;
             }
         }
 
